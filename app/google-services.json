@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "627893566988",
+    "project_id": "daysapp-e2978",
+    "storage_bucket": "daysapp-e2978.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627893566988:android:d32e55c669689b633f7829",
+        "android_client_info": {
+          "package_name": "com.example.a30daysapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpvx68EeuiGk8Z2-ghUNUAQA6nzO2hkyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
